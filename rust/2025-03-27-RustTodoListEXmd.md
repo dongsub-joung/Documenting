@@ -11,7 +11,7 @@
 
 ## 설치
 
-```
+```bash
 // Hello World! Getting Set up for Leptos CSR Development
 $ cargo install trunk
 
@@ -24,18 +24,42 @@ $ cargo add leptos --features=csr
 // WebAssembly 변환 컴파일 옵션
 $ rustup target add wasm32-unknown-unknown
 
+// init
+$ trunk serve --open
+
+
+
 ```
+
+
 
 ---
 
+# FIx features
+
+- UUID -> random string
+- created_time -> delete
+
+https://github.com/dongsub-joung/rust-fullstack/tree/main/leptos
 
 
 
+---
+
+## 
+
+
+
+
+
+
+
+> Welcome to the world of UI development with Rust and WebAssembly (WASM), powered by Leptos and Trunk!
 
 
 
 ---
 # Ref
 - [Leptos home](https://leptos.dev/)
-- [Getting Started](https://book.leptos.dev/getting_started/index.html)
+- [Leptos Getting Started](https://book.leptos.dev/getting_started/index.html)
 - https://github.com/oxide-byte/todo-leptos/tree/main
