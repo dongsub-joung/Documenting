@@ -65,7 +65,7 @@ $ trunk serve --open
 ```
 
 
-## JS를 웹어셈블리로 컴파일해서 동작
+## JS를 웹어셈블리로 컴파일해서 동작 (클루저)
 
 ```rust
   let on_add_event = move |_| {
@@ -97,7 +97,7 @@ https://github.com/oxide-byte/todo-leptos/tree/main
 https://github.com/dongsub-joung/rust-fullstack/tree/main/leptos
 
 ---
-## 결과 화면
+## 결과 화면: 시간적 여유가 없어서 실패
 ![todo list result err](https://private-user-images.githubusercontent.com/59364300/427417686-bb111fe4-f4d6-444d-94e2-c784676b5590.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDMwNjQ5NjEsIm5iZiI6MTc0MzA2NDY2MSwicGF0aCI6Ii81OTM2NDMwMC80Mjc0MTc2ODYtYmIxMTFmZTQtZjRkNi00NDRkLTk0ZTItYzc4NDY3NmI1NTkwLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAzMjclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMzI3VDA4Mzc0MVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTQ0ZjQ2OWEyMGU2MGQ1NjYwMTJlODRlMjZiZGZkZDgxYjUzMTgyYzNlNWZmNmFjZmJlODQ2NGQ5ODMwNDMwMTYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.gYch3pVL7NLpDBRpUAv_vlMA4uXzk9qKtXzki1CrvHo)
 
 
@@ -106,7 +106,6 @@ https://github.com/dongsub-joung/rust-fullstack/tree/main/leptos
 # Ref
 - [Leptos home](https://leptos.dev/)
 - [Leptos Getting Started](https://book.leptos.dev/getting_started/index.html)
-- 
 
 
 > Welcome to the world of UI development with Rust and WebAssembly (WASM), powered by Leptos and Trunk!
